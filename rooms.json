@@ -1,9 +1,14 @@
 {
-    "Room101": ["DSA", "GenAI"],
-    "Room102": ["MA", "Stats"],
-    "Room103": ["Finance", "BSE"],
-    "Room104": ["UHV"],
-    "LabA": ["DSL"],
-    "LabB": ["DEVL"],
-    "LabC": ["MAL"]
+    "Room101": ["DSA"], "Room102": ["DSA"], "Room103": ["DSA"], "Room104": ["DSA"],
+    "Room201": ["MA"], "Room202": ["MA"], "Room203": ["MA"], "Room204": ["MA"],
+    "Room301": ["GenAI"], "Room302": ["GenAI"], "Room303": ["GenAI"], "Room304": ["GenAI"],
+    "Room401": ["UHV"], "Room402": ["UHV"], "Room403": ["UHV"], "Room404": ["UHV"],
+    "Room501": ["Stats"], "Room502": ["Stats"], "Room503": ["Stats"], "Room504": ["Stats"],
+    "Room601": ["BSE"], "Room602": ["BSE"], "Room603": ["BSE"], "Room604": ["BSE"],
+    "LabA_1": ["DSL"], "LabA_2": ["DSL"], "LabA_3": ["DSL"], "LabA_4": ["DSL"], "LabA_5": ["DSL"],
+    "LabA_6": ["DSL"], "LabA_7": ["DSL"], "LabA_8": ["DSL"], "LabA_9": ["DSL"], "LabA_10": ["DSL"],
+    "LabB_1": ["DEVL"], "LabB_2": ["DEVL"], "LabB_3": ["DEVL"], "LabB_4": ["DEVL"], "LabB_5": ["DEVL"],
+    "LabB_6": ["DEVL"], "LabB_7": ["DEVL"], "LabB_8": ["DEVL"], "LabB_9": ["DEVL"], "LabB_10": ["DEVL"],
+    "LabC_1": ["MAL"], "LabC_2": ["MAL"], "LabC_3": ["MAL"], "LabC_4": ["MAL"], "LabC_5": ["MAL"],
+    "LabC_6": ["MAL"], "LabC_7": ["MAL"], "LabC_8": ["MAL"], "LabC_9": ["MAL"], "LabC_10": ["MAL"]
 }

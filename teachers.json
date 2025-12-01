@@ -1,10 +1,27 @@
 {
-    "Prof1": ["DSA", "DSL"],
-    "Prof2": ["MA", "MAL"],
-    "Prof3": ["GenAI"],
-    "Prof4": ["UHV"],
-    "Prof5": ["Stats"],
-    "Prof6": ["Finance"],
-    "Prof7": ["BSE"],
-    "Prof8": ["DEVL"]
+    "_comment": "Teachers are now division-specific - each teacher is assigned to only one division for the entire week",
+    
+    "DivA_Prof_DSA": ["DSA"], "DivA_Prof_MA": ["MA"], "DivA_Prof_GenAI": ["GenAI"], 
+    "DivA_Prof_UHV": ["UHV"], "DivA_Prof_Stats": ["Stats"], "DivA_Prof_BSE": ["BSE"],
+    "DivA_Prof_DSL_1": ["DSL"], "DivA_Prof_DSL_2": ["DSL"], "DivA_Prof_DSL_3": ["DSL"],
+    "DivA_Prof_MAL_1": ["MAL"], "DivA_Prof_MAL_2": ["MAL"], "DivA_Prof_MAL_3": ["MAL"],
+    "DivA_Prof_DEVL_1": ["DEVL"], "DivA_Prof_DEVL_2": ["DEVL"], "DivA_Prof_DEVL_3": ["DEVL"],
+    
+    "DivB_Prof_DSA": ["DSA"], "DivB_Prof_MA": ["MA"], "DivB_Prof_GenAI": ["GenAI"], 
+    "DivB_Prof_UHV": ["UHV"], "DivB_Prof_Stats": ["Stats"], "DivB_Prof_BSE": ["BSE"],
+    "DivB_Prof_DSL_1": ["DSL"], "DivB_Prof_DSL_2": ["DSL"], "DivB_Prof_DSL_3": ["DSL"],
+    "DivB_Prof_MAL_1": ["MAL"], "DivB_Prof_MAL_2": ["MAL"], "DivB_Prof_MAL_3": ["MAL"],
+    "DivB_Prof_DEVL_1": ["DEVL"], "DivB_Prof_DEVL_2": ["DEVL"], "DivB_Prof_DEVL_3": ["DEVL"],
+    
+    "DivC_Prof_DSA": ["DSA"], "DivC_Prof_MA": ["MA"], "DivC_Prof_GenAI": ["GenAI"], 
+    "DivC_Prof_UHV": ["UHV"], "DivC_Prof_Stats": ["Stats"], "DivC_Prof_BSE": ["BSE"],
+    "DivC_Prof_DSL_1": ["DSL"], "DivC_Prof_DSL_2": ["DSL"], "DivC_Prof_DSL_3": ["DSL"],
+    "DivC_Prof_MAL_1": ["MAL"], "DivC_Prof_MAL_2": ["MAL"], "DivC_Prof_MAL_3": ["MAL"],
+    "DivC_Prof_DEVL_1": ["DEVL"], "DivC_Prof_DEVL_2": ["DEVL"], "DivC_Prof_DEVL_3": ["DEVL"],
+    
+    "DivD_Prof_DSA": ["DSA"], "DivD_Prof_MA": ["MA"], "DivD_Prof_GenAI": ["GenAI"], 
+    "DivD_Prof_UHV": ["UHV"], "DivD_Prof_Stats": ["Stats"], "DivD_Prof_BSE": ["BSE"],
+    "DivD_Prof_DSL_1": ["DSL"], "DivD_Prof_DSL_2": ["DSL"], "DivD_Prof_DSL_3": ["DSL"],
+    "DivD_Prof_MAL_1": ["MAL"], "DivD_Prof_MAL_2": ["MAL"], "DivD_Prof_MAL_3": ["MAL"],
+    "DivD_Prof_DEVL_1": ["DEVL"], "DivD_Prof_DEVL_2": ["DEVL"], "DivD_Prof_DEVL_3": ["DEVL"]
 }

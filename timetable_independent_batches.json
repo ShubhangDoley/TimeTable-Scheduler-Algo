@@ -1,0 +1,1861 @@
+{
+    "DivA": {
+        "Mon": [
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "UHV",
+                "teacher": "Prof4_UHV",
+                "room": "Room404",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_start": true
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            }
+        ],
+        "Tue": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "BSE",
+                "teacher": "Prof4_BSE",
+                "room": "Room604",
+                "batches": "ALL"
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Free"
+            }
+        ],
+        "Wed": [
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_start": true
+            },
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_continuation": true
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            }
+        ],
+        "Thu": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            }
+        ],
+        "Fri": [
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            }
+        ]
+    },
+    "DivB": {
+        "Mon": [
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_start": true
+            },
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_continuation": true
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lab",
+                "class": "DEVL",
+                "teacher": "Prof_DEVL_10",
+                "room": "LabB_10",
+                "batches": "ALL",
+                "is_start": true
+            },
+            {
+                "type": "Lab",
+                "class": "DEVL",
+                "teacher": "Prof_DEVL_10",
+                "room": "LabB_10",
+                "batches": "ALL",
+                "is_continuation": true
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Free"
+            }
+        ],
+        "Tue": [
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "UHV",
+                "teacher": "Prof4_UHV",
+                "room": "Room404",
+                "batches": "ALL"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            }
+        ],
+        "Wed": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "3,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "BSE",
+                "teacher": "Prof4_BSE",
+                "room": "Room604",
+                "batches": "ALL"
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab"
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab"
+                    }
+                ]
+            }
+        ],
+        "Thu": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            }
+        ],
+        "Fri": [
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Lab",
+                "class": "DSL",
+                "teacher": "Prof_DSL_10",
+                "room": "LabA_10",
+                "batches": "ALL",
+                "is_continuation": true
+            },
+            {
+                "type": "Lab",
+                "class": "DSL",
+                "teacher": "Prof_DSL_10",
+                "room": "LabA_10",
+                "batches": "ALL",
+                "is_continuation": true
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            }
+        ]
+    },
+    "DivC": {
+        "Mon": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "UHV",
+                "teacher": "Prof4_UHV",
+                "room": "Room404",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lab",
+                "class": "DSL",
+                "teacher": "Prof_DSL_10",
+                "room": "LabA_10",
+                "batches": "ALL",
+                "is_start": true
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            }
+        ],
+        "Tue": [
+            {
+                "type": "Lecture",
+                "class": "BSE",
+                "teacher": "Prof4_BSE",
+                "room": "Room604",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "3,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            }
+        ],
+        "Wed": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            }
+        ],
+        "Thu": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            }
+        ],
+        "Fri": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            }
+        ]
+    },
+    "DivD": {
+        "Mon": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            }
+        ],
+        "Tue": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "4",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "3,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "UHV",
+                "teacher": "Prof4_UHV",
+                "room": "Room404",
+                "batches": "ALL"
+            }
+        ],
+        "Wed": [
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Lecture",
+                "class": "BSE",
+                "teacher": "Prof4_BSE",
+                "room": "Room604",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab"
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "GenAI",
+                "teacher": "Prof4_GenAI",
+                "room": "Room304",
+                "batches": "ALL"
+            },
+            {
+                "type": "Lecture",
+                "class": "MA",
+                "teacher": "Prof4_MA",
+                "room": "Room204",
+                "batches": "ALL"
+            }
+        ],
+        "Thu": [
+            {
+                "type": "Free"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,3,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "Free"
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,4",
+                        "class": "DEVL",
+                        "teacher": "Prof_DEVL_10",
+                        "room": "LabB_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "2,3",
+                        "class": "Free"
+                    }
+                ]
+            }
+        ],
+        "Fri": [
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_start": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,4",
+                        "class": "DSL",
+                        "teacher": "Prof_DSL_10",
+                        "room": "LabA_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    },
+                    {
+                        "batches": "3",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_continuation": true
+                    }
+                ]
+            },
+            {
+                "type": "Lecture",
+                "class": "Stats",
+                "teacher": "Prof4_Stats",
+                "room": "Room504",
+                "batches": "ALL"
+            },
+            {
+                "type": "LUNCH"
+            },
+            {
+                "type": "Lecture",
+                "class": "DSA",
+                "teacher": "Prof4_DSA",
+                "room": "Room104",
+                "batches": "ALL"
+            },
+            {
+                "type": "Mixed",
+                "activities": [
+                    {
+                        "batches": "1,2,4",
+                        "class": "Free"
+                    },
+                    {
+                        "batches": "3",
+                        "class": "MAL",
+                        "teacher": "Prof_MAL_10",
+                        "room": "LabC_10",
+                        "type": "Lab",
+                        "is_start": true
+                    }
+                ]
+            },
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_continuation": true
+            },
+            {
+                "type": "Lab",
+                "class": "MAL",
+                "teacher": "Prof_MAL_10",
+                "room": "LabC_10",
+                "batches": "ALL",
+                "is_continuation": true
+            }
+        ]
+    }
+}
