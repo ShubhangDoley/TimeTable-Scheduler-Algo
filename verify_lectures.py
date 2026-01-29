@@ -42,4 +42,50 @@ with open(output_file, 'w') as f:
             print(f"{div_name:<10} {subj:<10} {expected:<10} {actual:<10} {status}", file=f)
         print("-" * 60, file=f)
 
+    print("\n\nTeacher Allocation Mapping:", file=f)
+    print("=" * 60, file=f)
+    
+    # 1. Division Lectures
+    print("\n[Division Lectures]", file=f)
+    print(f"{'Division':<10} {'Subject':<15} {'Teacher':<20}", file=f)
+    print("-" * 50, file=f)
+    
+    for div_name, div_batches in data.items():
+        # Check first batch for division-level lectures
+        if not div_batches: continue
+        first_batch = list(div_batches.keys())[0]
+        schedule = div_batches[first_batch]
+        
+        lecture_map = {} 
+        
+        for day, slots in schedule.items():
+            for slot in slots:
+                if slot.get('type') == 'LECTURE':
+                    subj = slot.get('class')
+                    teacher = slot.get('teacher')
+                    lecture_map[subj] = teacher
+        
+        for subj in sorted(lecture_map.keys()):
+             teacher = lecture_map[subj]
+             print(f"{div_name:<10} {subj:<15} {teacher:<20}", file=f)
+
+    # 2. Batch Labs
+    print("\n[Batch Labs]", file=f)
+    print(f"{'Batch':<10} {'Subject':<15} {'Teacher':<20}", file=f)
+    print("-" * 50, file=f)
+    
+    for div_name, div_batches in data.items():
+        for batch_name, schedule in div_batches.items():
+             lab_map = {}
+             for day, slots in schedule.items():
+                for slot in slots:
+                    if slot.get('type') == 'LAB':
+                        subj = slot.get('class')
+                        teacher = slot.get('teacher')
+                        lab_map[subj] = teacher
+             
+             for subj in sorted(lab_map.keys()):
+                 teacher = lab_map[subj]
+                 print(f"{batch_name:<10} {subj:<15} {teacher:<20}", file=f)
+
 print(f"Lecture verification report saved to {output_file}")
