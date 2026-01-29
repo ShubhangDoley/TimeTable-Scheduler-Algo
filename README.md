@@ -8,6 +8,7 @@ A powerful, constraint-based timetable scheduling system built with Python and G
     *   **Lectures**: Scheduled for the entire division (e.g., DivA).
     *   **Labs**: Scheduled for individual batches (e.g., A1, A2, A3, A4).
 *   **Parallel Lab Sessions**: Different batches can attend different labs simultaneously (e.g., A1 in DSL, A2 in DEVL) to maximize resource utilization.
+*   **Single Teacher Allocation**: Automatically assigns one specific teacher to cover all lectures of a subject for a division (or all labs for a batch) to ensure consistency.
 *   **Conflict-Free**: Guarantees no double-booking of Teachers, Rooms, or Students.
 *   **Resource Management**: Assigns specific rooms and teachers based on availability and capability.
 *   **Smart Constraints**:
@@ -22,6 +23,7 @@ A powerful, constraint-based timetable scheduling system built with Python and G
 *   Google OR-Tools
 *   Pandas
 *   Tabulate
+*   FPDF (for PDF generation)
 
 ## 📦 Installation
 
@@ -33,7 +35,7 @@ A powerful, constraint-based timetable scheduling system built with Python and G
 
 2.  Install dependencies:
     ```bash
-    pip install ortools pandas tabulate
+    pip install ortools pandas tabulate fpdf
     ```
 
 ## ⚙️ Configuration
@@ -49,8 +51,9 @@ Defines the structure of the timetable.
     "lectures": ["DSA", "MA", "GenAI", ...],
     "labs": ["DSL", "DEVL", "MAL"],
     "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-    "slots": ["9:00", "10:00", ...],
-    "lunch_slot_index": 4
+    "start_hour": 9,
+    "end_hour": 17,
+    "lunch_start_hour": 13
 }
 ```
 
@@ -83,18 +86,35 @@ Maps rooms to the subjects that can be conducted there (e.g., Computer Labs vs L
 
 ## 🏃 Usage
 
-To generate the timetable, simply run the solver script:
-
+### 1. Generate Timetable
+Run the solver script to generate the raw schedule:
 ```bash
 python timetable_solver.py
 ```
+This saves the schedule to `timetable_full.json`.
 
-The script will:
-1.  Parse the configuration.
-2.  Build the constraint model.
-3.  Solve for an optimal/feasible schedule.
-4.  Print the schedule to the console.
-5.  Save the full schedule to `timetable_full.json`.
+### 2. Generate PDF Reports
+The system includes multiple scripts to generate professional PDF reports:
+
+*   **Student Timetable**:
+    ```bash
+    python generate_pdf.py
+    ```
+    Generates `timetable.pdf` with the master timetable for all divisions and batches.
+
+*   **Faculty Timetable**:
+    ```bash
+    python generate_faculty_timetable.py  # Generates JSON data
+    python generate_faculty_pdf.py        # Generates PDF
+    ```
+    Generates `faculty_timetable.pdf` showing individual schedules for every teacher.
+
+*   **Free Slots Report**:
+    ```bash
+    python generate_free_slots.py      # Calculates free slots
+    python generate_free_slots_pdf.py  # Generates PDF
+    ```
+    Generates `free_slots.pdf` listing available teachers for every slot.
 
 ## ✅ Verification
 
@@ -105,14 +125,14 @@ Checks if every batch has the correct number of lab sessions.
 ```bash
 python verify_labs.py
 ```
-*Output saved to: `verify_labs_output.txt`*
+*Output: `verify_labs_output.txt`*
 
-### Verify Lecture Frequencies
-Checks if every division has the correct number of lectures.
+### Verify Lecture Frequencies & Teacher Mapping
+Checks if every division has the correct number of lectures and verifies that a single teacher is consistently assigned to each subject.
 ```bash
 python verify_lectures.py
 ```
-*Output saved to: `verify_lectures_output.txt`*
+*Output: `verify_lectures_output.txt` (Includes Teacher Allocation Table)*
 
 ## 📄 Output Format
 
