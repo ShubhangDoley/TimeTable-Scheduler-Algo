@@ -1,1152 +1,4 @@
 {
-    "SP": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "D"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "B"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "Stats",
-                "room": "6405",
-                "type": "LECTURE",
-                "batches": "D"
-            }
-        ]
-    },
-    "SC": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "B2"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "B2"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "D2"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "D2"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "D1"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "D1"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "D2"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "D2"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "D"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "A1"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "A1"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "A"
-            }
-        ]
-    },
-    "PS": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "D"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "D4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "D4"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "A4"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "A4"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "C2"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "C2"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "A1"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "A1"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "B"
-            }
-        ]
-    },
-    "TK": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "D"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "Kotlin",
-                "room": "6304",
-                "type": "LECTURE",
-                "batches": "D"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ]
-    },
-    "AManna": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "C1"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "C1"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "D4"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "D4"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "D3"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A1"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A1"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "B2"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "B2"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "B3"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "B3"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ]
-    },
     "SPatil": {
         "Mon": [
             {
@@ -1155,11 +7,95 @@
                 "subject": "UHV",
                 "room": "6203",
                 "type": "LECTURE",
-                "batches": "C"
+                "batches": "A"
             },
             {
                 "time": "10:00 - 11:00",
                 "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "UHV",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "UHV",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "UHV",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "UHV",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "A"
             },
             {
                 "time": "11:00 - 12:00",
@@ -1180,6 +116,134 @@
             {
                 "time": "14:00 - 15:00",
                 "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "UHV",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "UHV",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "AJ": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A1"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A1"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "B2"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "B2"
             },
             {
                 "time": "15:00 - 16:00",
@@ -1218,14 +282,18 @@
             {
                 "time": "15:00 - 16:00",
                 "status": "BUSY",
-                "subject": "UHV",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "A"
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C4"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C4"
             }
         ],
         "Wed": [
@@ -1235,11 +303,19 @@
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "C3"
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "C3"
             },
             {
                 "time": "12:00 - 13:00",
@@ -1265,23 +341,23 @@
         "Thu": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "UHV",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "B"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A2"
             },
             {
                 "time": "11:00 - 12:00",
                 "status": "BUSY",
-                "subject": "UHV",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "C"
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A2"
             },
             {
                 "time": "12:00 - 13:00",
@@ -1289,37 +365,53 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "B2"
             },
             {
                 "time": "14:00 - 15:00",
                 "status": "BUSY",
-                "subject": "UHV",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "A"
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "B2"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "C3"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "C3"
             }
         ],
         "Fri": [
             {
                 "time": "9:00 - 10:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C4"
             },
             {
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
-                "subject": "UHV",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "D"
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C4"
             },
             {
                 "time": "11:00 - 12:00",
@@ -1331,23 +423,35 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A1"
             },
             {
                 "time": "14:00 - 15:00",
                 "status": "BUSY",
-                "subject": "UHV",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "B"
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A1"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A2"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A2"
             }
         ]
     },
@@ -1383,7 +487,7 @@
                 "subject": "BSE",
                 "room": "6102",
                 "type": "LECTURE",
-                "batches": "D"
+                "batches": "A"
             },
             {
                 "time": "16:00 - 17:00",
@@ -1393,11 +497,7 @@
         "Tue": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "BSE",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "B"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
@@ -1405,7 +505,11 @@
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "BSE",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "C"
             },
             {
                 "time": "12:00 - 13:00",
@@ -1417,11 +521,7 @@
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "BSE",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "C"
+                "status": "FREE"
             },
             {
                 "time": "15:00 - 16:00",
@@ -1433,25 +533,17 @@
                 "subject": "BSE",
                 "room": "6102",
                 "type": "LECTURE",
-                "batches": "A"
+                "batches": "B"
             }
         ],
         "Wed": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "BSE",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "A"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "BSE",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "B"
+                "status": "FREE"
             },
             {
                 "time": "11:00 - 12:00",
@@ -1463,7 +555,11 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "BSE",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "C"
             },
             {
                 "time": "14:00 - 15:00",
@@ -1481,11 +577,435 @@
         "Thu": [
             {
                 "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
                 "status": "BUSY",
                 "subject": "BSE",
                 "room": "6102",
                 "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "BSE",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "PS": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "A2"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "A2"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
                 "batches": "C"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "A"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "C2"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "C2"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "B2"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "B2"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "A"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "A1"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "A1"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "A4"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "A4"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "SS": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "B"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
@@ -1519,11 +1039,7 @@
         "Fri": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "BSE",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "D"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
@@ -1551,11 +1067,15 @@
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "B"
             }
         ]
     },
-    "SG": {
+    "YS": {
         "Mon": [
             {
                 "time": "9:00 - 10:00",
@@ -1575,53 +1095,33 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "B2"
+                "status": "FREE"
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "B2"
+                "status": "FREE"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "C3"
+                "status": "FREE"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "C3"
+                "status": "FREE"
             }
         ],
         "Tue": [
             {
                 "time": "9:00 - 10:00",
                 "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "A3"
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "D"
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "A3"
+                "status": "FREE"
             },
             {
                 "time": "11:00 - 12:00",
@@ -1634,420 +1134,412 @@
             {
                 "time": "13:00 - 14:00",
                 "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "AManna": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "D1"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "D1"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "C1"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "C1"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C1"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C1"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A4"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A4"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "A"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "A"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "D1"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "D1"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
                 "type": "LAB",
                 "batches": "B3"
             },
             {
                 "time": "14:00 - 15:00",
                 "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
+                "subject": "DSL",
+                "room": "6222",
                 "type": "LAB",
                 "batches": "B3"
             },
             {
                 "time": "15:00 - 16:00",
                 "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "B1"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "D2"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "D2"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
+                "subject": "DSL",
+                "room": "6104",
                 "type": "LAB",
                 "batches": "A4"
             },
             {
-                "time": "14:00 - 15:00",
+                "time": "16:00 - 17:00",
                 "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
+                "subject": "DSL",
+                "room": "6104",
                 "type": "LAB",
                 "batches": "A4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "A1"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "A1"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "C1"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "C1"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "D1"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "D1"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
             }
         ]
     },
-    "SI": {
+    "TK": {
         "Mon": [
             {
                 "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
                 "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
-                "type": "LECTURE",
-                "batches": "D"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
-                "type": "LECTURE",
-                "batches": "C"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
+                "subject": "Kotlin",
+                "room": "6304",
                 "type": "LECTURE",
                 "batches": "C"
             },
             {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
                 "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
                 "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
+                "subject": "Kotlin",
+                "room": "6304",
                 "type": "LECTURE",
                 "batches": "D"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "GenAI",
-                "room": "6309",
-                "type": "LECTURE",
-                "batches": "A"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ]
-    },
-    "NG": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
             },
             {
                 "time": "14:00 - 15:00",
@@ -2085,19 +1577,11 @@
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "D1"
+                "status": "FREE"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "D1"
+                "status": "FREE"
             },
             {
                 "time": "16:00 - 17:00",
@@ -2116,10 +1600,10 @@
             {
                 "time": "11:00 - 12:00",
                 "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
+                "subject": "Kotlin",
+                "room": "6304",
                 "type": "LECTURE",
-                "batches": "D"
+                "batches": "A"
             },
             {
                 "time": "12:00 - 13:00",
@@ -2127,41 +1611,29 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "B1"
+                "status": "FREE"
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "B1"
+                "status": "FREE"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "A2"
+                "status": "FREE"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "A2"
+                "status": "FREE"
             }
         ],
         "Thu": [
             {
                 "time": "9:00 - 10:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "Kotlin",
+                "room": "6304",
+                "type": "LECTURE",
+                "batches": "C"
             },
             {
                 "time": "10:00 - 11:00",
@@ -2177,49 +1649,49 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "C1"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "C1"
-            },
-            {
-                "time": "15:00 - 16:00",
                 "status": "FREE"
             },
             {
-                "time": "16:00 - 17:00",
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
                 "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
+                "subject": "Kotlin",
+                "room": "6304",
                 "type": "LECTURE",
-                "batches": "C"
+                "batches": "B"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
             }
         ],
         "Fri": [
             {
                 "time": "9:00 - 10:00",
                 "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
+                "subject": "Kotlin",
+                "room": "6304",
                 "type": "LECTURE",
-                "batches": "A"
+                "batches": "D"
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "Kotlin",
+                "room": "6304",
+                "type": "LECTURE",
+                "batches": "B"
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "Kotlin",
+                "room": "6304",
+                "type": "LECTURE",
+                "batches": "A"
             },
             {
                 "time": "12:00 - 13:00",
@@ -2255,7 +1727,7 @@
                 "subject": "DEVL",
                 "room": "9005",
                 "type": "LAB",
-                "batches": "D2"
+                "batches": "D4"
             },
             {
                 "time": "11:00 - 12:00",
@@ -2263,7 +1735,7 @@
                 "subject": "DEVL",
                 "room": "9005",
                 "type": "LAB",
-                "batches": "D2"
+                "batches": "D4"
             },
             {
                 "time": "12:00 - 13:00",
@@ -2273,9 +1745,63 @@
                 "time": "13:00 - 14:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9002",
+                "room": "9001",
                 "type": "LAB",
-                "batches": "A4"
+                "batches": "A3"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "B2"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "B2"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B2"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B2"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
             },
             {
                 "time": "14:00 - 15:00",
@@ -2283,20 +1809,28 @@
                 "subject": "DEVL",
                 "room": "9002",
                 "type": "LAB",
-                "batches": "A4"
+                "batches": "D3"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "D3"
             },
             {
                 "time": "16:00 - 17:00",
                 "status": "FREE"
             }
         ],
-        "Tue": [
+        "Wed": [
             {
                 "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
                 "status": "BUSY",
                 "subject": "DEVL",
                 "room": "9002",
@@ -2304,6 +1838,48 @@
                 "batches": "C1"
             },
             {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "C1"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "A1"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "A1"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
                 "subject": "DEVL",
@@ -2313,7 +1889,11 @@
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "C1"
             },
             {
                 "time": "12:00 - 13:00",
@@ -2331,65 +1911,7 @@
                 "time": "15:00 - 16:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "B2"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "B2"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "C2"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "C2"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
+                "room": "9001",
                 "type": "LAB",
                 "batches": "D4"
             },
@@ -2397,59 +1919,9 @@
                 "time": "16:00 - 17:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9005",
+                "room": "9001",
                 "type": "LAB",
                 "batches": "D4"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "B1"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
             }
         ],
         "Fri": [
@@ -2461,65 +1933,61 @@
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9004",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "D3"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "D3"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
                 "type": "LAB",
                 "batches": "A1"
             },
             {
-                "time": "11:00 - 12:00",
+                "time": "16:00 - 17:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9004",
+                "room": "9002",
                 "type": "LAB",
                 "batches": "A1"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "D4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "D4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "C4"
             }
         ]
     },
-    "KK": {
+    "SG": {
         "Mon": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "B4"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
@@ -2527,11 +1995,15 @@
                 "subject": "DEVL",
                 "room": "9001",
                 "type": "LAB",
-                "batches": "B4"
+                "batches": "D2"
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "D2"
             },
             {
                 "time": "12:00 - 13:00",
@@ -2541,55 +2013,55 @@
                 "time": "13:00 - 14:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9001",
+                "room": "9005",
                 "type": "LAB",
-                "batches": "B3"
+                "batches": "A4"
             },
             {
                 "time": "14:00 - 15:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9001",
+                "room": "9005",
                 "type": "LAB",
-                "batches": "B3"
+                "batches": "A4"
             },
             {
                 "time": "15:00 - 16:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9002",
+                "room": "9004",
                 "type": "LAB",
-                "batches": "C2"
+                "batches": "B1"
             },
             {
                 "time": "16:00 - 17:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9002",
+                "room": "9004",
                 "type": "LAB",
-                "batches": "C2"
+                "batches": "B1"
             }
         ],
         "Tue": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "D1"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
                 "subject": "DEVL",
-                "room": "9004",
+                "room": "9005",
                 "type": "LAB",
-                "batches": "D1"
+                "batches": "B1"
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "B1"
             },
             {
                 "time": "12:00 - 13:00",
@@ -2597,19 +2069,35 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "C2"
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "C2"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "A2"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "A2"
             }
         ],
         "Wed": [
@@ -2618,460 +2106,14 @@
                 "status": "BUSY",
                 "subject": "DEVL",
                 "room": "9005",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9005",
-                "type": "LAB",
-                "batches": "D3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "A3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9001",
-                "type": "LAB",
-                "batches": "A3"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9004",
-                "type": "LAB",
-                "batches": "A2"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DEVL",
-                "room": "9002",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ]
-    },
-    "AJ": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "FREE"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "B4"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "B4"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "A4"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "A4"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "D1"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "D1"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A3"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A3"
-            }
-        ],
-        "Thu": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "A4"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "A4"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "C"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSA",
-                "room": "6102",
-                "type": "LECTURE",
-                "batches": "D"
-            }
-        ],
-        "Fri": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "FREE"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A2"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "C3"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "C3"
-            }
-        ]
-    },
-    "DP": {
-        "Mon": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "B3"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "B3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "FREE"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "C4"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "FREE"
-            }
-        ],
-        "Tue": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
                 "type": "LAB",
                 "batches": "D2"
             },
             {
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
+                "subject": "DEVL",
+                "room": "9005",
                 "type": "LAB",
                 "batches": "D2"
             },
@@ -3089,65 +2131,23 @@
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "A4"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "A4"
             },
             {
                 "time": "16:00 - 17:00",
                 "status": "FREE"
-            }
-        ],
-        "Wed": [
-            {
-                "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "B"
-            },
-            {
-                "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "A3"
-            },
-            {
-                "time": "11:00 - 12:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6218",
-                "type": "LAB",
-                "batches": "A3"
-            },
-            {
-                "time": "12:00 - 13:00",
-                "status": "FREE"
-            },
-            {
-                "time": "13:00 - 14:00",
-                "status": "FREE"
-            },
-            {
-                "time": "14:00 - 15:00",
-                "status": "FREE"
-            },
-            {
-                "time": "15:00 - 16:00",
-                "status": "FREE"
-            },
-            {
-                "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "MA",
-                "room": "6203",
-                "type": "LECTURE",
-                "batches": "C"
             }
         ],
         "Thu": [
@@ -3157,11 +2157,19 @@
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "D1"
             },
             {
                 "time": "11:00 - 12:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "D1"
             },
             {
                 "time": "12:00 - 13:00",
@@ -3173,33 +2181,41 @@
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "A2"
             },
             {
                 "time": "15:00 - 16:00",
                 "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
+                "subject": "DEVL",
+                "room": "9002",
                 "type": "LAB",
-                "batches": "B2"
+                "batches": "A2"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "MAL",
-                "room": "6219",
-                "type": "LAB",
-                "batches": "B2"
+                "status": "FREE"
             }
         ],
         "Fri": [
             {
                 "time": "9:00 - 10:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "C2"
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "C2"
             },
             {
                 "time": "11:00 - 12:00",
@@ -3219,11 +2235,19 @@
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "D1"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "D1"
             }
         ]
     },
@@ -3239,6 +2263,490 @@
             },
             {
                 "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "D3"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "D3"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C2"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "C2"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "D4"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "D4"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "D4"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "D4"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "D2"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "D2"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "C2"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "C2"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "D2"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "D2"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "D3"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "D3"
+            }
+        ]
+    },
+    "NG": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "B3"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "C4"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "C4"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "A3"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "A3"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "C3"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "C3"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "SI": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "10:00 - 11:00",
                 "status": "FREE"
             },
             {
@@ -3269,19 +2777,381 @@
         "Tue": [
             {
                 "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "SC": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "B"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
                 "status": "BUSY",
                 "subject": "DSL",
                 "room": "6005",
                 "type": "LAB",
-                "batches": "C2"
+                "batches": "B1"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6005",
+                "type": "LAB",
+                "batches": "B1"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "C"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "B"
             },
             {
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
                 "subject": "DSL",
-                "room": "6005",
+                "room": "6222",
                 "type": "LAB",
-                "batches": "C2"
+                "batches": "B1"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6222",
+                "type": "LAB",
+                "batches": "B1"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSA",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DSL",
+                "room": "6104",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "DP": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
             },
             {
                 "time": "11:00 - 12:00",
@@ -3298,18 +3168,508 @@
             {
                 "time": "14:00 - 15:00",
                 "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
+                "subject": "MAL",
+                "room": "6219",
                 "type": "LAB",
-                "batches": "D3"
+                "batches": "D4"
             },
             {
                 "time": "15:00 - 16:00",
                 "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "D4"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "C1"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6219",
+                "type": "LAB",
+                "batches": "C1"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "D"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
                 "type": "LAB",
                 "batches": "D3"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "D3"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "BUSY",
+                "subject": "MA",
+                "room": "6203",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "D2"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "D2"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "D1"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6218",
+                "type": "LAB",
+                "batches": "D1"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "B1"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "MAL",
+                "room": "6206",
+                "type": "LAB",
+                "batches": "B1"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "KK": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9002",
+                "type": "LAB",
+                "batches": "B4"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B3"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "C3"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9005",
+                "type": "LAB",
+                "batches": "C3"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "C4"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9001",
+                "type": "LAB",
+                "batches": "C4"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "B4"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "C3"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "C3"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "C4"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "DEVL",
+                "room": "9004",
+                "type": "LAB",
+                "batches": "C4"
+            }
+        ]
+    },
+    "MP": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
             },
             {
                 "time": "16:00 - 17:00",
@@ -3353,19 +3713,11 @@
         "Thu": [
             {
                 "time": "9:00 - 10:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "D4"
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6005",
-                "type": "LAB",
-                "batches": "D4"
+                "status": "FREE"
             },
             {
                 "time": "11:00 - 12:00",
@@ -3377,7 +3729,11 @@
             },
             {
                 "time": "13:00 - 14:00",
-                "status": "FREE"
+                "status": "BUSY",
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "C"
             },
             {
                 "time": "14:00 - 15:00",
@@ -3385,37 +3741,275 @@
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A3"
+                "status": "FREE"
             },
             {
                 "time": "16:00 - 17:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "A3"
+                "status": "FREE"
             }
         ],
         "Fri": [
             {
                 "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
                 "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "B3"
+                "subject": "GenAI",
+                "room": "6309",
+                "type": "LECTURE",
+                "batches": "C"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "NS": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "BUSY",
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "D"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
             },
             {
                 "time": "10:00 - 11:00",
                 "status": "BUSY",
-                "subject": "DSL",
-                "room": "6104",
-                "type": "LAB",
-                "batches": "B3"
+                "subject": "Stats",
+                "room": "6405",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ]
+    },
+    "JL": {
+        "Mon": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Tue": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
             },
             {
                 "time": "11:00 - 12:00",
@@ -3428,34 +4022,128 @@
             {
                 "time": "13:00 - 14:00",
                 "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "C2"
+                "subject": "BSE",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "D"
             },
             {
                 "time": "14:00 - 15:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6222",
-                "type": "LAB",
-                "batches": "C2"
+                "status": "FREE"
             },
             {
                 "time": "15:00 - 16:00",
-                "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "C1"
+                "status": "FREE"
             },
             {
                 "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Wed": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
                 "status": "BUSY",
-                "subject": "DSL",
-                "room": "6206",
-                "type": "LAB",
-                "batches": "C1"
+                "subject": "BSE",
+                "room": "6102",
+                "type": "LECTURE",
+                "batches": "D"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Thu": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
+            }
+        ],
+        "Fri": [
+            {
+                "time": "9:00 - 10:00",
+                "status": "FREE"
+            },
+            {
+                "time": "10:00 - 11:00",
+                "status": "FREE"
+            },
+            {
+                "time": "11:00 - 12:00",
+                "status": "FREE"
+            },
+            {
+                "time": "12:00 - 13:00",
+                "status": "FREE"
+            },
+            {
+                "time": "13:00 - 14:00",
+                "status": "FREE"
+            },
+            {
+                "time": "14:00 - 15:00",
+                "status": "FREE"
+            },
+            {
+                "time": "15:00 - 16:00",
+                "status": "FREE"
+            },
+            {
+                "time": "16:00 - 17:00",
+                "status": "FREE"
             }
         ]
     }

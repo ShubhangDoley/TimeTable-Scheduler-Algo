@@ -1,35 +1,123 @@
 Lecture Frequency Verification:
 Division   Subject    Expected   Actual     Status
 ------------------------------------------------------------
-DivA       BSE        2          2          OK
-DivA       MA         2          2          OK
-DivA       GenAI      2          2          OK
 DivA       UHV        2          2          OK
 DivA       DSA        3          3          OK
-DivA       Kotlin     2          2          OK
 DivA       Stats      2          2          OK
+DivA       MA         2          2          OK
+DivA       GenAI      2          2          OK
+DivA       BSE        2          2          OK
+DivA       Kotlin     2          2          OK
 ------------------------------------------------------------
-DivB       BSE        2          2          OK
-DivB       MA         2          2          OK
-DivB       GenAI      2          2          OK 
 DivB       UHV        2          2          OK
 DivB       DSA        3          3          OK
-DivB       Kotlin     2          2          OK
 DivB       Stats      2          2          OK
+DivB       MA         2          2          OK
+DivB       GenAI      2          2          OK
+DivB       BSE        2          2          OK
+DivB       Kotlin     2          2          OK
 ------------------------------------------------------------
-DivC       BSE        2          2          OK
-DivC       MA         2          2          OK
-DivC       GenAI      2          2          OK
 DivC       UHV        2          2          OK
 DivC       DSA        3          3          OK
-DivC       Kotlin     2          2          OK
 DivC       Stats      2          2          OK
+DivC       MA         2          2          OK
+DivC       GenAI      2          2          OK
+DivC       BSE        2          2          OK
+DivC       Kotlin     2          2          OK
 ------------------------------------------------------------
-DivD       BSE        2          2          OK
-DivD       MA         2          2          OK
-DivD       GenAI      2          2          OK
 DivD       UHV        2          2          OK
 DivD       DSA        3          3          OK
-DivD       Kotlin     2          2          OK
 DivD       Stats      2          2          OK
+DivD       MA         2          2          OK
+DivD       GenAI      2          2          OK
+DivD       BSE        2          2          OK
+DivD       Kotlin     2          2          OK
 ------------------------------------------------------------
+
+
+Teacher Allocation Mapping:
+============================================================
+
+[Division Lectures]
+Division   Subject         Teacher             
+--------------------------------------------------
+DivA       BSE             PRIYA               
+DivA       DSA             AManna              
+DivA       GenAI           YS                  
+DivA       Kotlin          TK                  
+DivA       MA              PS                  
+DivA       Stats           SS                  
+DivA       UHV             SPatil              
+DivB       BSE             PRIYA               
+DivB       DSA             SC                  
+DivB       GenAI           SI                  
+DivB       Kotlin          TK                  
+DivB       MA              NG                  
+DivB       Stats           SS                  
+DivB       UHV             SPatil              
+DivC       BSE             PRIYA               
+DivC       DSA             SC                  
+DivC       GenAI           MP                  
+DivC       Kotlin          TK                  
+DivC       MA              PS                  
+DivC       Stats           SS                  
+DivC       UHV             SPatil              
+DivD       BSE             JL                  
+DivD       DSA             AM                  
+DivD       GenAI           YS                  
+DivD       Kotlin          TK                  
+DivD       MA              DP                  
+DivD       Stats           NS                  
+DivD       UHV             SPatil              
+
+[Batch Labs]
+Batch      Subject         Teacher             
+--------------------------------------------------
+A1         DEVL            AR                  
+A1         DSL             AJ                  
+A1         MAL             PS                  
+A2         DEVL            SG                  
+A2         DSL             AJ                  
+A2         MAL             PS                  
+A3         DEVL            AR                  
+A3         DSL             AM                  
+A3         MAL             NG                  
+A4         DEVL            SG                  
+A4         DSL             AManna              
+A4         MAL             PS                  
+B1         DEVL            SG                  
+B1         DSL             SC                  
+B1         MAL             DP                  
+B2         DEVL            AR                  
+B2         DSL             AJ                  
+B2         MAL             PS                  
+B3         DEVL            KK                  
+B3         DSL             AManna              
+B3         MAL             NG                  
+B4         DEVL            KK                  
+B4         DSL             SC                  
+B4         MAL             NG                  
+C1         DEVL            AR                  
+C1         DSL             AManna              
+C1         MAL             DP                  
+C2         DEVL            SG                  
+C2         DSL             AM                  
+C2         MAL             PS                  
+C3         DEVL            KK                  
+C3         DSL             AJ                  
+C3         MAL             NG                  
+C4         DEVL            KK                  
+C4         DSL             AJ                  
+C4         MAL             NG                  
+D1         DEVL            SG                  
+D1         DSL             AManna              
+D1         MAL             DP                  
+D2         DEVL            SG                  
+D2         DSL             AM                  
+D2         MAL             DP                  
+D3         DEVL            AR                  
+D3         DSL             AM                  
+D3         MAL             DP                  
+D4         DEVL            AR                  
+D4         DSL             AM                  
+D4         MAL             DP                  

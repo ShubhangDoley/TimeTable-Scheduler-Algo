@@ -3,22 +3,22 @@
         "A1": {
             "Mon": [
                 {
-                    "class": "Stats",
+                    "class": "UHV",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "SC",
-                    "room": "6102"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "PS",
+                    "teacher": "SPatil",
                     "room": "6203"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6005"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6005"
                 },
                 {
                     "class": "LUNCH",
@@ -33,18 +33,152 @@
                     "type": "FREE"
                 },
                 {
-                    "class": "Kotlin",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "teacher": "PRIYA",
+                    "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
                 }
             ],
             "Tue": [
                 {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AManna",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AManna",
+                    "room": "6102"
+                },
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
+                }
+            ],
+            "Thu": [
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6218"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6218"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AManna",
+                    "room": "6102"
+                }
+            ],
+            "Fri": [
+                {
                     "class": "Free",
                     "type": "FREE"
                 },
@@ -63,177 +197,67 @@
                     "type": "COMMON"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DEVL",
+                    "class": "DSL",
                     "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "AJ",
+                    "room": "6005"
                 },
                 {
                     "class": "DSL",
                     "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6222"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6206"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6206"
-                }
-            ],
-            "Fri": [
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
+                    "teacher": "AJ",
+                    "room": "6005"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
                     "teacher": "AR",
-                    "room": "9004"
+                    "room": "9002"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
                     "teacher": "AR",
-                    "room": "9004"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "SC",
-                    "room": "6102"
+                    "room": "9002"
                 }
             ]
         },
         "A2": {
             "Mon": [
                 {
-                    "class": "Stats",
+                    "class": "UHV",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "SPatil",
+                    "room": "6203"
                 },
                 {
-                    "class": "DSA",
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6206"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6206"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
@@ -241,48 +265,32 @@
                     "type": "LECTURE",
                     "teacher": "PS",
                     "room": "6203"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 }
             ],
             "Tue": [
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Kotlin",
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
                 },
                 {
                     "class": "DSA",
@@ -291,8 +299,24 @@
                     "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AManna",
+                    "room": "6102"
                 },
                 {
                     "class": "UHV",
@@ -301,65 +325,19 @@
                     "room": "6203"
                 },
                 {
-                    "class": "BSE",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6206"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6206"
+                    "teacher": "TK",
+                    "room": "6304"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9001"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9001"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6218"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6218"
-                }
-            ],
-            "Thu": [
-                {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
                 },
                 {
@@ -371,91 +349,137 @@
                     "type": "FREE"
                 },
                 {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9004"
-                }
-            ],
-            "Fri": [
-                {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "NG",
+                    "teacher": "PS",
                     "room": "6203"
+                }
+            ],
+            "Thu": [
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
                 },
                 {
                     "class": "DSL",
                     "type": "LAB",
                     "teacher": "AJ",
-                    "room": "6222"
+                    "room": "6005"
                 },
                 {
                     "class": "DSL",
                     "type": "LAB",
                     "teacher": "AJ",
-                    "room": "6222"
+                    "room": "6005"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "GenAI",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "teacher": "PRIYA",
+                    "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9002"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9002"
                 },
                 {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "AManna",
                     "room": "6102"
+                }
+            ],
+            "Fri": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6005"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6005"
                 }
             ]
         },
         "A3": {
             "Mon": [
                 {
-                    "class": "Stats",
+                    "class": "UHV",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "SPatil",
+                    "room": "6203"
                 },
                 {
-                    "class": "DSA",
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9001"
+                },
+                {
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
@@ -463,52 +487,36 @@
                     "type": "LECTURE",
                     "teacher": "PS",
                     "room": "6203"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 }
             ],
             "Tue": [
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
-                    "class": "Kotlin",
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6005"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6005"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
                 },
                 {
                     "class": "DSA",
@@ -517,94 +525,24 @@
                     "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
                 },
                 {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
                 }
             ],
             "Wed": [
                 {
-                    "class": "BSE",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "PRIYA",
+                    "teacher": "AManna",
                     "room": "6102"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6218"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6218"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6222"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9001"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9001"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
                 },
                 {
                     "class": "UHV",
@@ -613,42 +551,64 @@
                     "room": "6203"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6222"
-                }
-            ],
-            "Fri": [
-                {
-                    "class": "MA",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
+                    "teacher": "TK",
+                    "room": "6304"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
+                }
+            ],
+            "Thu": [
+                {
                     "class": "GenAI",
                     "type": "LECTURE",
-                    "teacher": "SI",
+                    "teacher": "YS",
                     "room": "6309"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6104"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6104"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
                 },
                 {
                     "class": "Free",
@@ -661,23 +621,87 @@
                 {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "AManna",
                     "room": "6102"
+                }
+            ],
+            "Fri": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 }
             ]
         },
         "A4": {
             "Mon": [
                 {
-                    "class": "Stats",
+                    "class": "UHV",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "SPatil",
+                    "room": "6203"
                 },
                 {
-                    "class": "DSA",
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
@@ -685,56 +709,32 @@
                     "type": "LECTURE",
                     "teacher": "PS",
                     "room": "6203"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 }
             ],
             "Tue": [
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "Kotlin",
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
                 },
                 {
                     "class": "DSA",
@@ -743,94 +743,24 @@
                     "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6005"
                 },
                 {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6005"
                 }
             ],
             "Wed": [
                 {
-                    "class": "BSE",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "PRIYA",
+                    "teacher": "AManna",
                     "room": "6102"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6219"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6219"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
                 },
                 {
                     "class": "UHV",
@@ -839,20 +769,46 @@
                     "room": "6203"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                }
-            ],
-            "Fri": [
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "NG",
+                    "teacher": "PS",
                     "room": "6203"
+                }
+            ],
+            "Thu": [
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
                 },
                 {
                     "class": "Free",
@@ -867,10 +823,10 @@
                     "type": "COMMON"
                 },
                 {
-                    "class": "GenAI",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "teacher": "PRIYA",
+                    "room": "6102"
                 },
                 {
                     "class": "Free",
@@ -883,8 +839,52 @@
                 {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "AManna",
                     "room": "6102"
+                }
+            ],
+            "Fri": [
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6218"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6218"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6104"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6104"
                 }
             ]
         }
@@ -893,6 +893,72 @@
         "B1": {
             "Mon": [
                 {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "SI",
+                    "room": "6309"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "NG",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9004"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9004"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
                     "class": "Free",
                     "type": "FREE"
                 },
@@ -907,108 +973,40 @@
                     "room": "6102"
                 },
                 {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6222"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                }
-            ],
-            "Tue": [
-                {
                     "class": "BSE",
                     "type": "LECTURE",
                     "teacher": "PRIYA",
                     "room": "6102"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
                 }
             ],
             "Wed": [
                 {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "DP",
-                    "room": "6203"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "MAL",
+                    "class": "DSL",
                     "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6219"
+                    "teacher": "SC",
+                    "room": "6005"
                 },
                 {
-                    "class": "MAL",
+                    "class": "DSL",
                     "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6219"
+                    "teacher": "SC",
+                    "room": "6005"
                 },
                 {
                     "class": "GenAI",
@@ -1019,16 +1017,36 @@
                 {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
                 }
             ],
             "Thu": [
                 {
-                    "class": "UHV",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "SC",
+                    "room": "6222"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "SC",
+                    "room": "6222"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -1039,26 +1057,6 @@
                     "type": "LECTURE",
                     "teacher": "TK",
                     "room": "6304"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -1067,116 +1065,122 @@
             ],
             "Fri": [
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6005"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
                     "class": "UHV",
                     "type": "LECTURE",
                     "teacher": "SPatil",
                     "room": "6203"
                 },
                 {
-                    "class": "Stats",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6206"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6206"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "PS",
+                    "teacher": "NG",
                     "room": "6203"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
                 }
             ]
         },
         "B2": {
             "Mon": [
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "SC",
-                    "room": "6102"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6222"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
                     "class": "GenAI",
                     "type": "LECTURE",
                     "teacher": "SI",
                     "room": "6309"
                 },
                 {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "NG",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6206"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6206"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9005"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9004"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9004"
+                },
+                {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
@@ -1189,36 +1193,34 @@
                     "type": "FREE"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9004"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "MA",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "DP",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
                     "class": "BSE",
                     "type": "LECTURE",
                     "teacher": "PRIYA",
                     "room": "6102"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6206"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6206"
                 },
                 {
                     "class": "LUNCH",
@@ -1241,20 +1243,40 @@
                 {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
                 }
             ],
             "Thu": [
                 {
-                    "class": "UHV",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
                     "class": "Free",
                     "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6005"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6005"
                 },
                 {
                     "class": "Kotlin",
@@ -1263,57 +1285,11 @@
                     "room": "6304"
                 },
                 {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6206"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6206"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6219"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6219"
+                    "class": "Free",
+                    "type": "FREE"
                 }
             ],
             "Fri": [
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
                 {
                     "class": "UHV",
                     "type": "LECTURE",
@@ -1321,32 +1297,56 @@
                     "room": "6203"
                 },
                 {
-                    "class": "Stats",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "PS",
+                    "teacher": "NG",
                     "room": "6203"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
                 }
             ]
         },
         "B3": {
             "Mon": [
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6219"
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "SI",
+                    "room": "6309"
                 },
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6219"
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "NG",
+                    "room": "6203"
                 },
                 {
                     "class": "DSA",
@@ -1362,41 +1362,41 @@
                     "class": "DEVL",
                     "type": "LAB",
                     "teacher": "KK",
-                    "room": "9001"
+                    "room": "9004"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
                     "teacher": "KK",
-                    "room": "9001"
+                    "room": "9004"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
                 }
             ],
             "Tue": [
                 {
-                    "class": "BSE",
+                    "class": "UHV",
                     "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "teacher": "SPatil",
+                    "room": "6203"
                 },
                 {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
@@ -1405,42 +1405,44 @@
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9001"
+                    "teacher": "KK",
+                    "room": "9004"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9001"
+                    "teacher": "KK",
+                    "room": "9004"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "MA",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "DP",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
                     "class": "BSE",
                     "type": "LECTURE",
                     "teacher": "PRIYA",
                     "room": "6102"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
+                    "class": "DSL",
+                    "type": "LAB",
                     "teacher": "AManna",
-                    "room": "6102"
+                    "room": "6005"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6005"
                 },
                 {
                     "class": "LUNCH",
@@ -1463,16 +1465,32 @@
                 {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
                 }
             ],
             "Thu": [
                 {
-                    "class": "UHV",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -1485,57 +1503,11 @@
                     "room": "6304"
                 },
                 {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
                     "class": "Free",
                     "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6104"
                 }
             ],
             "Fri": [
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6104"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
                 {
                     "class": "UHV",
                     "type": "LECTURE",
@@ -1543,84 +1515,112 @@
                     "room": "6203"
                 },
                 {
-                    "class": "Stats",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6222"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6222"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "PS",
+                    "teacher": "NG",
                     "room": "6203"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
                 }
             ]
         },
         "B4": {
             "Mon": [
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9001"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9001"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "SC",
-                    "room": "6102"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
                     "class": "GenAI",
                     "type": "LECTURE",
                     "teacher": "SI",
                     "room": "6309"
                 },
                 {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "NG",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9002"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9002"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
+                },
+                {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
@@ -1628,57 +1628,51 @@
                     "class": "DSL",
                     "type": "LAB",
                     "teacher": "SC",
-                    "room": "6206"
+                    "room": "6222"
                 },
                 {
                     "class": "DSL",
                     "type": "LAB",
                     "teacher": "SC",
-                    "room": "6206"
+                    "room": "6222"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "MA",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "DP",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
                     "class": "BSE",
                     "type": "LECTURE",
                     "teacher": "PRIYA",
                     "room": "6102"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9004"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9004"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "GenAI",
@@ -1689,16 +1683,36 @@
                 {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
                 }
             ],
             "Thu": [
                 {
-                    "class": "UHV",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9004"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9004"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -1709,26 +1723,6 @@
                     "type": "LECTURE",
                     "teacher": "TK",
                     "room": "6304"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6218"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6218"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -1737,44 +1731,50 @@
             ],
             "Fri": [
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
                     "class": "UHV",
                     "type": "LECTURE",
                     "teacher": "SPatil",
                     "room": "6203"
                 },
                 {
-                    "class": "Stats",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "SC",
+                    "room": "6104"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "SC",
+                    "room": "6104"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "PS",
+                    "teacher": "NG",
                     "room": "6203"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
                 }
             ]
         }
@@ -1783,118 +1783,10 @@
         "C1": {
             "Mon": [
                 {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6104"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
                     "class": "Kotlin",
                     "type": "LECTURE",
                     "teacher": "TK",
                     "room": "6304"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 },
                 {
                     "class": "DSA",
@@ -1903,24 +1795,14 @@
                     "room": "6102"
                 },
                 {
-                    "class": "MA",
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "DP",
-                    "room": "6203"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "teacher": "SS",
+                    "room": "6405"
                 },
                 {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "class": "LUNCH",
+                    "type": "COMMON"
                 },
                 {
                     "class": "UHV",
@@ -1929,35 +1811,117 @@
                     "room": "6203"
                 },
                 {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6222"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6222"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6206"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6206"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
                     "class": "MAL",
                     "type": "LAB",
-                    "teacher": "NG",
+                    "teacher": "DP",
                     "room": "6219"
                 },
                 {
                     "class": "MAL",
                     "type": "LAB",
-                    "teacher": "NG",
+                    "teacher": "DP",
                     "room": "6219"
                 },
                 {
-                    "class": "DSA",
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "AJ",
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "NG",
+                    "teacher": "PS",
                     "room": "6203"
+                },
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
                 }
             ],
-            "Fri": [
+            "Thu": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -1967,14 +1931,54 @@
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
+                    "teacher": "AR",
+                    "room": "9002"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Fri": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
                 },
                 {
                     "class": "LUNCH",
@@ -1989,142 +1993,22 @@
                     "type": "FREE"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6206"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6206"
+                    "class": "Free",
+                    "type": "FREE"
                 }
             ]
         },
         "C2": {
             "Mon": [
                 {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9002"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9002"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
                     "class": "Kotlin",
                     "type": "LECTURE",
                     "teacher": "TK",
                     "room": "6304"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9002"
-                },
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6206"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6206"
                 },
                 {
                     "class": "DSA",
@@ -2133,24 +2017,14 @@
                     "room": "6102"
                 },
                 {
-                    "class": "MA",
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "DP",
-                    "room": "6203"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "teacher": "SS",
+                    "room": "6405"
                 },
                 {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "class": "LUNCH",
+                    "type": "COMMON"
                 },
                 {
                     "class": "UHV",
@@ -2159,31 +2033,113 @@
                     "room": "6203"
                 },
                 {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6206"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6206"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6219"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "PS",
+                    "room": "6219"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
+                    "room": "6102"
+                },
+                {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
                 },
                 {
                     "class": "Free",
                     "type": "FREE"
                 },
                 {
-                    "class": "DSA",
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "AJ",
+                    "teacher": "SS",
+                    "room": "6405"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "NG",
+                    "teacher": "PS",
                     "room": "6203"
+                },
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
                 }
             ],
-            "Fri": [
+            "Thu": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -2203,16 +2159,60 @@
                     "type": "COMMON"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6222"
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
                     "class": "DSL",
                     "type": "LAB",
                     "teacher": "AM",
-                    "room": "6222"
+                    "room": "6104"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6104"
+                }
+            ],
+            "Fri": [
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -2227,46 +2227,46 @@
         "C3": {
             "Mon": [
                 {
-                    "class": "UHV",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "TK",
+                    "room": "6304"
                 },
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6218"
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6218"
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
                 },
                 {
                     "class": "Free",
                     "type": "FREE"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
+                    "class": "Free",
+                    "type": "FREE"
                 }
             ],
             "Tue": [
@@ -2279,96 +2279,70 @@
                     "type": "FREE"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                },
-                {
                     "class": "BSE",
                     "type": "LECTURE",
                     "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "class": "LUNCH",
+                    "type": "COMMON"
                 },
                 {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9005"
                 }
             ],
             "Wed": [
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6222"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6222"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSA",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "DP",
+                    "teacher": "PS",
                     "room": "6203"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
                 },
                 {
                     "class": "UHV",
@@ -2377,31 +2351,13 @@
                     "room": "6203"
                 },
                 {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "AJ",
+                    "teacher": "SC",
                     "room": "6102"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
                 }
             ],
-            "Fri": [
+            "Thu": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -2409,74 +2365,122 @@
                     "room": "6304"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9002"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9002"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6222"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6222"
+                }
+            ],
+            "Fri": [
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6219"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6219"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9004"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9004"
+                },
+                {
                     "class": "Free",
                     "type": "FREE"
                 },
                 {
                     "class": "Free",
                     "type": "FREE"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6005"
                 }
             ]
         },
         "C4": {
             "Mon": [
                 {
-                    "class": "UHV",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "TK",
+                    "room": "6304"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "SS",
+                    "room": "6405"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6218"
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
                 },
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6218"
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "PS",
+                    "room": "6203"
                 },
                 {
                     "class": "Free",
@@ -2489,32 +2493,12 @@
             ],
             "Tue": [
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6222"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AManna",
-                    "room": "6102"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "BSE",
@@ -2523,70 +2507,68 @@
                     "room": "6102"
                 },
                 {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "class": "LUNCH",
+                    "type": "COMMON"
                 },
                 {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "NG",
+                    "room": "6218"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6206"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AJ",
+                    "room": "6206"
                 }
             ],
             "Wed": [
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "SS",
                     "room": "6405"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9001"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSA",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "PRIYA",
                     "room": "6102"
                 },
                 {
                     "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "DP",
+                    "teacher": "PS",
                     "room": "6203"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
                 },
                 {
                     "class": "UHV",
@@ -2595,35 +2577,13 @@
                     "room": "6203"
                 },
                 {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9005"
-                },
-                {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "AJ",
+                    "teacher": "SC",
                     "room": "6102"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
                 }
             ],
-            "Fri": [
+            "Thu": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -2643,11 +2603,27 @@
                     "type": "COMMON"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6206"
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
                 },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "SC",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Fri": [
                 {
                     "class": "DSL",
                     "type": "LAB",
@@ -2655,16 +2631,40 @@
                     "room": "6206"
                 },
                 {
-                    "class": "DEVL",
+                    "class": "DSL",
                     "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9001"
+                    "teacher": "AJ",
+                    "room": "6206"
+                },
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "MP",
+                    "room": "6309"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9001"
+                    "teacher": "KK",
+                    "room": "9004"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "KK",
+                    "room": "9004"
                 }
             ]
         }
@@ -2679,12 +2679,100 @@
                     "room": "6102"
                 },
                 {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6104"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6104"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
                     "class": "Free",
                     "type": "FREE"
                 },
                 {
                     "class": "Free",
                     "type": "FREE"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "NS",
+                    "room": "6405"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "NS",
+                    "room": "6405"
+                },
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "JL",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "DP",
+                    "room": "6203"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "JL",
+                    "room": "6102"
                 },
                 {
                     "class": "LUNCH",
@@ -2697,100 +2785,10 @@
                     "room": "6203"
                 },
                 {
-                    "class": "MA",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "PS",
-                    "room": "6203"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
+                    "teacher": "AM",
                     "room": "6102"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9004"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6219"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "NG",
-                    "room": "6219"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AJ",
-                    "room": "6104"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
                 },
                 {
                     "class": "Free",
@@ -2803,81 +2801,49 @@
             ],
             "Thu": [
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6206"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6206"
-                },
-                {
-                    "class": "GenAI",
+                    "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AJ",
-                    "room": "6102"
-                }
-            ],
-            "Fri": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
+                    "teacher": "DP",
                     "room": "6203"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "SC",
-                    "room": "6102"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9002"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9002"
+                    "class": "Free",
+                    "type": "FREE"
                 },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6218"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6218"
+                }
+            ],
+            "Fri": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -2885,10 +2851,44 @@
                     "room": "6304"
                 },
                 {
-                    "class": "Stats",
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6005"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AManna",
+                    "room": "6005"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AM",
+                    "room": "6102"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9005"
                 }
             ]
         },
@@ -2903,14 +2903,102 @@
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "AR",
+                    "teacher": "SG",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
+                    "room": "9001"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "NS",
+                    "room": "6405"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "NS",
+                    "room": "6405"
+                },
+                {
+                    "class": "UHV",
+                    "type": "LECTURE",
+                    "teacher": "SPatil",
+                    "room": "6203"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "JL",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "DP",
+                    "room": "6203"
+                }
+            ],
+            "Wed": [
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "SG",
                     "room": "9005"
                 },
                 {
                     "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "AR",
+                    "teacher": "SG",
                     "room": "9005"
+                },
+                {
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "JL",
+                    "room": "6102"
                 },
                 {
                     "class": "LUNCH",
@@ -2923,100 +3011,10 @@
                     "room": "6203"
                 },
                 {
-                    "class": "MA",
+                    "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "PS",
-                    "room": "6203"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
+                    "teacher": "AM",
                     "room": "6102"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6219"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "DP",
-                    "room": "6219"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Stats",
-                    "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Kotlin",
-                    "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "SG",
-                    "room": "9004"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6222"
                 },
                 {
                     "class": "Free",
@@ -3029,77 +3027,49 @@
             ],
             "Thu": [
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "GenAI",
+                    "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "SC",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AJ",
-                    "room": "6102"
-                }
-            ],
-            "Fri": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "UHV",
-                    "type": "LECTURE",
-                    "teacher": "SPatil",
+                    "teacher": "DP",
                     "room": "6203"
                 },
                 {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "SC",
-                    "room": "6102"
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6206"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6206"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6206"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6206"
+                },
+                {
                     "class": "Free",
                     "type": "FREE"
                 },
                 {
                     "class": "Free",
                     "type": "FREE"
-                },
+                }
+            ],
+            "Fri": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -3107,10 +3077,40 @@
                     "room": "6304"
                 },
                 {
-                    "class": "Stats",
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6222"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6222"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AM",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 }
             ]
         },
@@ -3123,105 +3123,59 @@
                     "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6222"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6222"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "UHV",
+                    "class": "Kotlin",
                     "type": "LECTURE",
-                    "teacher": "SPatil",
-                    "room": "6203"
+                    "teacher": "TK",
+                    "room": "6304"
                 },
                 {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "PS",
-                    "room": "6203"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "GenAI",
+                    "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "teacher": "NS",
+                    "room": "6405"
                 }
             ],
             "Tue": [
                 {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6206"
-                },
-                {
-                    "class": "MAL",
-                    "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6206"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
                 },
                 {
                     "class": "Stats",
                     "type": "LECTURE",
-                    "teacher": "SP",
+                    "teacher": "NS",
                     "room": "6405"
                 },
                 {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6005"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AM",
-                    "room": "6005"
-                },
-                {
-                    "class": "Kotlin",
+                    "class": "UHV",
                     "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
-                }
-            ],
-            "Wed": [
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9005"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "KK",
-                    "room": "9005"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
+                    "teacher": "SPatil",
                     "room": "6203"
                 },
                 {
@@ -3229,74 +3183,48 @@
                     "type": "COMMON"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "BSE",
+                    "type": "LECTURE",
+                    "teacher": "JL",
+                    "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSL",
+                    "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6104"
+                    "teacher": "AR",
+                    "room": "9002"
                 },
                 {
-                    "class": "DSL",
+                    "class": "DEVL",
                     "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6104"
+                    "teacher": "AR",
+                    "room": "9002"
+                },
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "DP",
+                    "room": "6203"
                 }
             ],
-            "Thu": [
+            "Wed": [
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9005"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9005"
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
-                    "class": "GenAI",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
+                    "teacher": "JL",
+                    "room": "6102"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AJ",
-                    "room": "6102"
-                }
-            ],
-            "Fri": [
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
                 },
                 {
                     "class": "UHV",
@@ -3307,8 +3235,36 @@
                 {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "AM",
                     "room": "6102"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6218"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6218"
+                }
+            ],
+            "Thu": [
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "DP",
+                    "room": "6203"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
@@ -3323,16 +3279,60 @@
                     "type": "FREE"
                 },
                 {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Fri": [
+                {
                     "class": "Kotlin",
                     "type": "LECTURE",
                     "teacher": "TK",
                     "room": "6304"
                 },
                 {
-                    "class": "Stats",
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9001"
+                },
+                {
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9001"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AM",
+                    "room": "6102"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6206"
+                },
+                {
+                    "class": "DSL",
+                    "type": "LAB",
+                    "teacher": "AM",
+                    "room": "6206"
                 }
             ]
         },
@@ -3345,16 +3345,58 @@
                     "room": "6102"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9005"
                 },
                 {
-                    "class": "Free",
-                    "type": "FREE"
+                    "class": "DEVL",
+                    "type": "LAB",
+                    "teacher": "AR",
+                    "room": "9005"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
+                },
+                {
+                    "class": "Kotlin",
+                    "type": "LECTURE",
+                    "teacher": "TK",
+                    "room": "6304"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6219"
+                },
+                {
+                    "class": "MAL",
+                    "type": "LAB",
+                    "teacher": "DP",
+                    "room": "6219"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "NS",
+                    "room": "6405"
+                }
+            ],
+            "Tue": [
+                {
+                    "class": "GenAI",
+                    "type": "LECTURE",
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "Stats",
+                    "type": "LECTURE",
+                    "teacher": "NS",
+                    "room": "6405"
                 },
                 {
                     "class": "UHV",
@@ -3363,158 +3405,56 @@
                     "room": "6203"
                 },
                 {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "PS",
-                    "room": "6203"
-                },
-                {
-                    "class": "BSE",
-                    "type": "LECTURE",
-                    "teacher": "PRIYA",
-                    "room": "6102"
-                },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                }
-            ],
-            "Tue": [
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
-                    "class": "Stats",
+                    "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "JL",
+                    "room": "6102"
                 },
                 {
-                    "class": "MAL",
+                    "class": "DSL",
                     "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6218"
+                    "teacher": "AM",
+                    "room": "6104"
                 },
                 {
-                    "class": "MAL",
+                    "class": "DSL",
                     "type": "LAB",
-                    "teacher": "PS",
-                    "room": "6218"
+                    "teacher": "AM",
+                    "room": "6104"
                 },
                 {
-                    "class": "Kotlin",
+                    "class": "MA",
                     "type": "LECTURE",
-                    "teacher": "TK",
-                    "room": "6304"
+                    "teacher": "DP",
+                    "room": "6203"
                 }
             ],
             "Wed": [
                 {
                     "class": "DSL",
                     "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6222"
-                },
-                {
-                    "class": "DSL",
-                    "type": "LAB",
-                    "teacher": "AManna",
-                    "room": "6222"
-                },
-                {
-                    "class": "MA",
-                    "type": "LECTURE",
-                    "teacher": "NG",
-                    "room": "6203"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9005"
-                },
-                {
-                    "class": "DEVL",
-                    "type": "LAB",
-                    "teacher": "AR",
-                    "room": "9005"
-                }
-            ],
-            "Thu": [
-                {
-                    "class": "DSL",
-                    "type": "LAB",
                     "teacher": "AM",
-                    "room": "6005"
+                    "room": "6104"
                 },
                 {
                     "class": "DSL",
                     "type": "LAB",
                     "teacher": "AM",
-                    "room": "6005"
+                    "room": "6104"
                 },
-                {
-                    "class": "GenAI",
-                    "type": "LECTURE",
-                    "teacher": "SI",
-                    "room": "6309"
-                },
-                {
-                    "class": "LUNCH",
-                    "type": "COMMON"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "Free",
-                    "type": "FREE"
-                },
-                {
-                    "class": "DSA",
-                    "type": "LECTURE",
-                    "teacher": "AJ",
-                    "room": "6102"
-                }
-            ],
-            "Fri": [
                 {
                     "class": "BSE",
                     "type": "LECTURE",
-                    "teacher": "PRIYA",
+                    "teacher": "JL",
                     "room": "6102"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
                 },
                 {
                     "class": "UHV",
@@ -3525,14 +3465,46 @@
                 {
                     "class": "DSA",
                     "type": "LECTURE",
-                    "teacher": "SC",
+                    "teacher": "AM",
                     "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                }
+            ],
+            "Thu": [
+                {
+                    "class": "MA",
+                    "type": "LECTURE",
+                    "teacher": "DP",
+                    "room": "6203"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 },
                 {
                     "class": "LUNCH",
                     "type": "COMMON"
                 },
                 {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
                     "class": "DEVL",
                     "type": "LAB",
                     "teacher": "AR",
@@ -3543,7 +3515,9 @@
                     "type": "LAB",
                     "teacher": "AR",
                     "room": "9001"
-                },
+                }
+            ],
+            "Fri": [
                 {
                     "class": "Kotlin",
                     "type": "LECTURE",
@@ -3551,10 +3525,36 @@
                     "room": "6304"
                 },
                 {
-                    "class": "Stats",
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "LUNCH",
+                    "type": "COMMON"
+                },
+                {
+                    "class": "GenAI",
                     "type": "LECTURE",
-                    "teacher": "SP",
-                    "room": "6405"
+                    "teacher": "YS",
+                    "room": "6309"
+                },
+                {
+                    "class": "DSA",
+                    "type": "LECTURE",
+                    "teacher": "AM",
+                    "room": "6102"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
+                },
+                {
+                    "class": "Free",
+                    "type": "FREE"
                 }
             ]
         }
