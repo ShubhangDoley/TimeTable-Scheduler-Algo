@@ -304,6 +304,23 @@ class TimetableScheduler:
             freq = self.frequencies[subject]
             unit_indices = self.subj_to_lecture_indices[subject]
             
+            # --- Single Teacher Constraint ---
+            # Group unit indices by teacher
+            teacher_to_indices = {}
+            for u_idx in unit_indices:
+                _, teacher, _ = self.idx_to_lecture_unit[u_idx]
+                if teacher not in teacher_to_indices:
+                    teacher_to_indices[teacher] = []
+                teacher_to_indices[teacher].append(u_idx)
+
+            # Map: Teacher -> BoolVar (Selected for this Div/Subject)
+            teacher_bools = {}
+            for teacher in teacher_to_indices:
+                teacher_bools[teacher] = self.model.NewBoolVar(f'sel_tch_{div}_{subject}_{teacher}')
+            
+            if teacher_bools:
+                self.model.Add(sum(teacher_bools.values()) == 1)
+
             all_activations = []
             for day in self.days:
                 daily_acts = []
@@ -311,10 +328,15 @@ class TimetableScheduler:
                     var = self.var_lectures[div][day][s]
                     for u_idx in unit_indices:
                         b = self.model.NewBoolVar(f'lec_act_{div}_{subject}_{day}_{s}_{u_idx}')
-                        # Bidirectional: b <=> (var == u_idx)
                         self.model.Add(var == u_idx).OnlyEnforceIf(b)
                         self.model.Add(var != u_idx).OnlyEnforceIf(b.Not())
                         daily_acts.append(b)
+
+                        # Link Schedule to Teacher Selection
+                        _, teacher, _ = self.idx_to_lecture_unit[u_idx]
+                        if teacher in teacher_bools:
+                             # If this unit is active, this teacher must be the selected one
+                             self.model.Add(teacher_bools[teacher] == 1).OnlyEnforceIf(b)
                 
                 self.model.Add(sum(daily_acts) <= 1)
                 all_activations.extend(daily_acts)
@@ -330,6 +352,23 @@ class TimetableScheduler:
             num_sessions = freq
             
             unit_indices = self.subj_to_lab_indices[subject]
+            
+            # --- Single Teacher Constraint ---
+            teacher_to_indices = {}
+            for u_idx in unit_indices:
+                _, teacher, _ = self.idx_to_lab_unit[u_idx]
+                if teacher not in teacher_to_indices:
+                     teacher_to_indices[teacher] = []
+                teacher_to_indices[teacher].append(u_idx)
+            
+            teacher_bools = {}
+            for teacher in teacher_to_indices:
+                teacher_bools[teacher] = self.model.NewBoolVar(f'sel_tch_lab_{batch}_{subject}_{teacher}')
+            
+            if teacher_bools:
+                self.model.Add(sum(teacher_bools.values()) == 1)
+            # ---------------------------------
+
             all_starts = []
             
             # Map: (day, slot, u_idx) -> b_start (that STARTS at this slot)
@@ -350,7 +389,12 @@ class TimetableScheduler:
                         
                         daily_starts.append(b_start)
                         starts_at[(day, s, u_idx)] = b_start
-                
+
+                        # Link to Teacher Selection (if started here, teacher assigned)
+                        _, teacher, _ = self.idx_to_lab_unit[u_idx]
+                        if teacher in teacher_bools:
+                            self.model.Add(teacher_bools[teacher] == 1).OnlyEnforceIf(b_start)
+
                 self.model.Add(sum(daily_starts) <= 1)
                 all_starts.extend(daily_starts)
             
@@ -590,8 +634,8 @@ class TimetableScheduler:
         status = self.solver.Solve(self.model, TimetableSolutionPrinter(5))
         return status
 
-    def export_solution(self, filename="timetable_full.json"):
-        if self.solver.StatusName() not in ["OPTIMAL", "FEASIBLE"]:
+    def export_solution(self, status, filename="timetable_full.json"):
+        if status not in (cp_model.OPTIMAL, cp_model.FEASIBLE):
             print("No solution.")
             return
 
@@ -705,7 +749,7 @@ if __name__ == "__main__":
         scheduler.build_model()
         status = scheduler.solve()
         if status in (cp_model.OPTIMAL, cp_model.FEASIBLE):
-            scheduler.export_solution()
+            scheduler.export_solution(status)
         else:
             print("No solution found.")
     except Exception as e:
